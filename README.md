@@ -40,7 +40,7 @@ curl -v http://localhost:9090/playgrounds/1
 
 ##POST JSON
 
-http://localhost:9090//playgrounds/
+http://localhost:9090/playgrounds/
 {
   "color": "red"
 }
